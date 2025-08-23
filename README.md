@@ -18,7 +18,7 @@
 🌱 **Learning Journey:** Android Development & Advanced Mobile Solutions  
 💡 **Passion:** Creating full-stack applications with modern technologies  
 📍 **Based in:** Matale, Sri Lanka  
-🎮 **Fun Fact:** Call me "Jstr" - that's my developer alias!
+🎮 **Fun Fact:** Call me "Jester" - that's my developer alias!
 
 ### 🎭 Developer Personal
 ```javascript
