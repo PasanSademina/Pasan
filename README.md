@@ -20,7 +20,7 @@
 📍 **Based in:** Matale, Sri Lanka  
 🎮 **Fun Fact:** Call me "Jstr" - that's my developer alias!
 
-### 🎭 Developer Persona
+### 🎭 Developer Personal
 ```javascript
 const pasan = {
     location: "Matale, Sri Lanka",
