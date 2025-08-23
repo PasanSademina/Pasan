@@ -15,8 +15,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 🎯 **Currently Building:** TraitGen Software Solution  
-🌱 **Learning Journey:** Mastering Java & Advanced Software Architecture  
-💡 **Passion:** Creating innovative solutions that make a difference  
+🌱 **Learning Journey:** Android Development & Advanced Mobile Solutions  
+💡 **Passion:** Creating full-stack applications with modern technologies  
 📍 **Based in:** Matale, Sri Lanka  
 🎮 **Fun Fact:** Call me "Jstr" - that's my developer alias!
 
@@ -26,23 +26,24 @@ const pasan = {
     location: "Matale, Sri Lanka",
     role: "Full Stack Developer",
     company: "TraitGen Software Solution",
-    code: ["JavaScript", "PHP", "Java", "Python", "C++", "C#"],
-    askMeAbout: ["web dev", "software architecture", "problem solving"],
+    code: ["Java", "PHP", "JavaScript", "HTML", "CSS", "SQL"],
+    frameworks: ["React", "Hibernate", "Android SDK"],
+    askMeAbout: ["web dev", "mobile dev", "database design", "full-stack solutions"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["CSS3", "Responsive Design"]
+            web: ["React", "HTML5", "CSS3", "JavaScript"],
+            mobile: ["Android (Learning)", "Java"]
         },
         backEnd: {
-            js: ["Node.js"],
-            php: ["Core PHP"],
-            java: ["Spring Boot", "Core Java"]
+            languages: ["Java", "PHP"],
+            frameworks: ["Hibernate", "Spring"],
+            databases: ["MySQL"]
         },
-        databases: ["MySQL", "MongoDB"],
-        misc: ["Arduino", "IoT Projects"]
+        currentlyExploring: ["Android Development", "Mobile UI/UX", "Kotlin"],
+        tools: ["Git", "Android Studio", "VS Code", "MySQL Workbench"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    currentFocus: "Building cross-platform solutions with web & mobile integration",
+    funFact: "From web to mobile - I love creating seamless user experiences! 📱💻"
 };
 ```
 
@@ -52,24 +53,27 @@ const pasan = {
 
 <div align="center">
 
-### 🎨 Frontend Universe
+### 🎨 Frontend & Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend Powerhouse
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### ⚙️ Backend & Database
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Database
-![Sql](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-### 🔧 Tools & Platforms
+### 📱 Mobile Development (Currently Learning)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
@@ -99,15 +103,19 @@ const pasan = {
 
 ```mermaid
 graph TD
-    A[🚀 TraitGen Software Solution] --> B[Frontend Development]
-    A --> C[Backend Architecture]
-    A --> D[Database Design]
-    B --> E[React Components]
-    B --> F[Responsive UI/UX]
-    C --> G[API Development]
-    C --> H[Server Logic]
-    D --> I[Data Optimization]
-    D --> J[Query Performance]
+    A[🚀 TraitGen Software Solution] --> B[Web Development]
+    A --> C[Mobile Development]
+    A --> D[Database Management]
+    B --> E[React Frontend]
+    B --> F[Java/PHP Backend]
+    C --> G[Android Apps]
+    C --> H[Mobile UI/UX]
+    D --> I[MySQL Database]
+    D --> J[Hibernate ORM]
+    
+    style C fill:#ff9999
+    style G fill:#ff9999
+    style H fill:#ff9999
 ```
 
 </div>
@@ -120,10 +128,10 @@ graph TD
 
 | 🎯 **Focus Area** | 📈 **Progress** | 🔥 **Status** |
 |:---:|:---:|:---:|
-| Full Stack Development | ████████████████████ 95% | 🚀 Expert |
-| Java Mastery | ████████████████░░░░ 80% | 📚 Learning |
-| Problem Solving | ████████████████████ 90% | 💪 Strong |
-| Software Architecture | ███████████████░░░░░ 75% | 🏗️ Building |
+| Web Development (Java/PHP) | ████████████████████ 90% | 🚀 Expert |
+| Frontend (React/HTML/CSS/JS) | ████████████████████ 85% | 💪 Strong |
+| Database (MySQL/Hibernate) | ███████████████████░ 85% | 🗄️ Proficient |
+| Android Development | ████████░░░░░░░░░░░░ 35% | 📱 Learning |
 
 </div>
 
@@ -136,7 +144,7 @@ graph TD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan-sademina-911013264)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/psnvlogs69)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pasan_sademina)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/pasanabeywardhna)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/pasan abeywardhna)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psn69.2001@gmail.com)
 
 </div>
